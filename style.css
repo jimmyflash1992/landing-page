@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    color: #e5e7eb;
+    background-color: #1f2937;
+    align-items: center;
+    
+}
+
+.left-header {
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 100px;
+
+}
+
+.right-header {
+    font-size: 18px;
+    margin-right: 100px;
+   
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 8px;
+    
+
+}
