@@ -149,8 +149,24 @@ button.sign-up {
 .quote-section {
     display: flex;
     flex-direction: column;
-    padding: 0px 100px;
+    padding: 0px 200px;
     background-color: #e5e7eb;
 
 }
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    padding-top: 100px;
+    font-weight: light;
+}
+
+.quote-author {
+    text-align: right;
+    font-weight: bold;
+}
+
+
+
 
