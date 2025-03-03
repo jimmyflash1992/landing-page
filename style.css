@@ -10,6 +10,7 @@
     color: #e5e7eb;
     background-color: #1f2937;
     align-items: center;
+    padding: 10px 0 10px 0;
 
 }
 
@@ -52,7 +53,7 @@ ul {
 
 button.sign-up {
     margin-top: 8px;
-    padding: 6px 24px;
+    padding: 6px 28px;
     background-color: #3882f6;
     color: #f9faf8;
     border-radius: 6px;
